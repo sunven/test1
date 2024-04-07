@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/sunven/test1/compare/v1.0.4...v1.0.5) (2024-04-07)
+
+
+### Bug Fixes
+
+* 1 ([eb3015b](https://github.com/sunven/test1/commit/eb3015bd2cdf9792474154696d0990bae69347c4))
+
 ## [1.0.4](https://github.com/sunven/test1/compare/v1.0.3...v1.0.4) (2024-04-07)
 
 
